@@ -1,0 +1,12 @@
+name: webtrimono
+title: webtrimono
+username: webtrimono
+account: webtrimono
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12328232
+bundleId: 8872986
+url: https://webtrimono.shinyapps.io/webtrimono/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
